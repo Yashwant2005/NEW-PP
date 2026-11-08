@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+codebase.zip
+codebase_extracted/
+cookies.txt
+pokeplay.sqlite
+pokeplay_game.sqlite
+.env
